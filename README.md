@@ -1,2 +1,2 @@
 # voyages
-dossier voyages1 asie japon images-voyages
+dossier voyages /voyages2/ibrahima/imagesvoyages/afrique/maroc/
