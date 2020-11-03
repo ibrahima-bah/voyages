@@ -1,2 +1,2 @@
 # voyages
-add   dossier voyages1 avec imagesvoyages3/amerique/perou
+dossier voyages /voyages2/ibrahima/imagesvoyages/afrique/maroc/
